@@ -1,5 +1,3 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
 # O Trono da IA: Dominando Inteligência Artificial Generativa com AWS 👑
 
 ## 📒 Descrição
@@ -8,7 +6,6 @@ EBOOK Gerado por I.A.s, sobre inteligência artificial generativa com foco na AW
 ## 🤖 Tecnologias Utilizadas
 - ChatGPT-3.5
 - Leonardo.Ai
-- PowerPoint
 
 ## 🧐 Processo de Criação
 - Conteúdo gerado via ChatGPT
